@@ -10,7 +10,7 @@ Al fine di garantire la migliore esperienza possibile sia per i potenziali candi
 - Anni di esperienza richiesti (se è richiesta esperienza multidisciplinare / multiruolo si prega di specificare) 
 - Eventuale possibilità di smart working (specificare gg/settimana) o full remote working
 - Eventuali certificazioni (indicare se necessarie o preferenziali)
-- Titolo di studio richiesto (diploma, laurea, laurea magistrale...) ed eventuale obbligatorietà
+- Titolo di studio richiesto (diploma, laurea, laurea magistrale...) ed eventuale obbligatorietà dello stesso
 - Durata dell'annuncio e quindi della selezione.
 
 Grazie,
